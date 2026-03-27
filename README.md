@@ -16,7 +16,7 @@ I love starting with an empty file and watching a whole website come together ov
 - 💻 Build functional, responsive websites using HTML, CSS, and JavaScript from empty file to finished product
 - 🎨 Design the visuals that bring websites to life, with a strong focus on layout, typography, and user experience
 - 🖨️ Create print-ready design materials for real clients, from event suites to wedding collections
-- 🌟 Bring a designer's eye to every line of code — because the best websites are both well-built AND well-designed
+- 🌟 Bring a designer's eye to every line of code, because the best websites are both well-built AND well-designed
 
 ## 🛠️ Technical Skills & Tools
 
