@@ -47,12 +47,12 @@ I love starting with an empty file and watching a whole website come together ov
 
 ## 💻 Projects
 
-**Celestial Cat Sanctuary**
+**Celestial Cat Sanctuary:**
 A single-page web application built with HTML, CSS, and JavaScript for a fictional cat sanctuary. Features include a button-controlled image slideshow, tabbed content sections, and a contact form with data persistence on page reload.
 
 [View Repository](https://github.com/aheeke/celestialcatsanctuary)
 
-**Vale's Greenhouse Website Redesign**
+**Vale's Greenhouse Website Redesign:**
 A multi-page website redesign for a real Canadian greenhouse business. Built with HTML, CSS, and JavaScript, featuring a live Weather API integration to display local conditions, a custom-designed logo, contact form, seasonal hours, and gift certificate page.
 
 [View Repository](https://github.com/aheeke/valesgreenhouse)
@@ -64,7 +64,7 @@ A multi-page website redesign for a real Canadian greenhouse business. Built wit
 [![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://yourresumelink.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aheeke.dev@gmail.com)
 
-## ✨ Fun Fact
+## ✨ Fun Facts
 
 - 🎶 I've attended over 100 concerts and counting
 - 📚 I once read all 4,544 pages of the Throne of Glass series in one week, and I have zero regrets.
