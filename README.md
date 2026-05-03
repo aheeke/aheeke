@@ -61,7 +61,7 @@ A multi-page website redesign for a real Canadian greenhouse business. Built wit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aheeke)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2B2D6E?style=for-the-badge&logo=firefox&logoColor=white)](https://ash-heeke.com/)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1y4xgmZorajBd2E8Jpwv5JSwfOzWUdLr8/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ynapASV5RBv1p4eDOM6B0AA6QOKW4do2/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aheeke.dev@gmail.com)
 
 ## ✨ Fun Facts
